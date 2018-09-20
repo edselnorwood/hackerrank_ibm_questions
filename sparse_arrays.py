@@ -1,5 +1,8 @@
 #!/bin/python
-
+"""
+The code template that hackerrank provides has some code that is specific 
+to there back end system, which throws errors when you try to run it locally.
+"""
 import math
 import os
 import random
